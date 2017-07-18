@@ -1,0 +1,10 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.wrapper{
+	background-color: purple;
+}
+.header{
+	background-color: red; 
+}
